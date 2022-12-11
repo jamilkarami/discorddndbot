@@ -1,0 +1,1 @@
+BOOLS = ["No", "Yes"]
